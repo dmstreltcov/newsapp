@@ -1,0 +1,4 @@
+GET http://newsapi.org/v2/top-headlines?country=ru&apiKey=33646153e4fa419188b218331e781cd8
+GET http://newsapi.org/v2/top-headlines?country=ru&category=business&apiKey=33646153e4fa419188b218331e781cd8
+GET http://newsapi.org/v2/top-headlines?sources=google-news&apiKey=API_KEY
+API_KEY 33646153e4fa419188b218331e781cd8

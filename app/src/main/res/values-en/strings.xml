@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="news_image">Picture for news</string>
+    <string name="app_name">NewsApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Test user</string>
+    <string name="nav_header_subtitle">test@user.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_news">News</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_publishedAt">Published: %1$s</string>
+</resources>
